@@ -980,6 +980,34 @@
      "sha256": "f744b50126d49ac02bc6b30f8efd8551f6e9d83831661e8b7baa4ad4ded24c3e"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-3277-21017",
+   "short": "Ordenanza Nº 3277/21017",
+   "title": "Ordenanza Nº 3277/21017",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179452",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179452",
+     "sha256": "1f04ad100458e50aa74343a20cb696117cc2952246b3018eaaae77f30c7ad6f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3278-2017-1179453",
+   "short": "Ordenanza Nº 3278/2017",
+   "title": "Ordenanza Nº 3278/2017",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179453",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179453",
+     "sha256": "10dafdacda18e3a54e39da58fc9303a91c5e4a784f13ed800173d7c8abe2e1f6"
+    }
+   ]
   }
  ]
 }

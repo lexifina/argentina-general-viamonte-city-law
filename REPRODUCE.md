@@ -84,20 +84,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3264-2017` | Ordenanza 3264/2017: Lo actuado en el Expediente n* 4053/2.017, y la necesidad de regularizar las desadjudicaciones y adjudicaciones de lotes del Plan Familia Propietaria “Barrio María Luz Mujica de esta Ciudad, por disolución de matrimonios | 1 | 2018-01-07 to 2018-01-07 |
 | `ordenanza-3266-2017` | Ordenanza 3266/2017: El Convenio suscripto oportunamente entre el Consejo Nacional de Coordinación de Políticas Sociales de la Presidencia de la Nación y la Municipalidad de General Viamonte; y | 1 | 2018-01-07 to 2018-01-07 |
 | `ordenanza-3267-2017` | Ordenanza 3267/2017: Que al llamado a LICITACIÓN PRIVADA N* 06/2017, para adjudicar la Obra: “SISTEMA DE CLIMATIZACIÓN CENTRAL EN JARDÍN MATERNAL MUNICIPAL SAN JUAN BOSCO DE LA CIUDAD DE LOS TOLDOS, PARTIDO DE GENERAL VIAMONTE”, se presentó, | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3277-21017` | Ordenanza Nº 3277/21017 | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3278-2017-1179453` | Ordenanza Nº 3278/2017 | 1 | 2018-01-07 to 2018-01-07 |
 
-The build made 70 commits:
+The build made 72 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 70 | first version of an act |
+| 72 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 70 laws in the record.
-- 120 tags.
+- 72 laws in the record.
+- 122 tags.
 
 ## Dates
 
@@ -109,15 +111,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6d91f95ff925e99a2b46ab78a09c543f874de5fbdc3b4b57b40e349ccf65e0be` (514511 bytes).
+- Corpus: sha256 `60a27f92566fbfc77ab3a34e03d94ca59ae7830acfaf3a9b4fbb0c7d14053e71` (521186 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-70 versions of 70 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+72 versions of 72 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 72 history commits and 122 tags (history tip `e1af04a1838b5b38b82991860aa370fe315e5b2b`).
 
 ## Decisions made by hand
 
@@ -126,6 +128,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- SIBOM prints ordinance number 3277/21017; its page and listed number are kept as printed.
+- SIBOM publishes two different ordinances as 3278/2017; the second is distinguished by its official page ID 1179453.
+- Each text is the official as-published version; publication on 29 December 2017 and the default ninth-day rule yield 7 January 2018.
 
 ## What AI did and did not do
 
@@ -137,3 +142,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model identified missing listing entries and their dates; law text was parsed only from official SIBOM HTML.

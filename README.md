@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-70 ordinances so far, in force from 7 May 2017 to 16 December 2018, each as published in the Boletín Oficial Municipal de General Viamonte, added in parts.
+72 ordinances so far, in force from 7 May 2017 to 16 December 2018, each as published in the Boletín Oficial Municipal de General Viamonte, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -82,6 +82,8 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3264-2017/` | Ordenanza 3264/2017: Lo actuado en el Expediente n* 4053/2.017, y la necesidad de regularizar las desadjudicaciones y adjudicaciones de lotes del Plan Familia P… | in force 7 January 2018 |
 | `ordenanza-3266-2017/` | Ordenanza 3266/2017: El Convenio suscripto oportunamente entre el Consejo Nacional de Coordinación de Políticas Sociales de la Presidencia de la Nación y la Mun… | in force 7 January 2018 |
 | `ordenanza-3267-2017/` | Ordenanza 3267/2017: Que al llamado a LICITACIÓN PRIVADA N* 06/2017, para adjudicar la Obra: “SISTEMA DE CLIMATIZACIÓN CENTRAL EN JARDÍN MATERNAL MUNICIPAL SAN … | in force 7 January 2018 |
+| `ordenanza-3277-21017/` | Ordenanza Nº 3277/21017, as printed by SIBOM | in force 7 January 2018 |
+| `ordenanza-3278-2017-1179453/` | Ordenanza Nº 3278/2017, the distinct ordinance on SIBOM page 1179453 | in force 7 January 2018 |
 
 ## Source
 
@@ -107,16 +109,20 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 
 This is not an official publication. The binding text is the one published in the Boletín Oficial Municipal de General Viamonte. Only the ordinances listed above are included, and amendments are not consolidated into the texts they amend.
 
-## Left out
+## Other search entries
 
-4 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de General Viamonte page gives no article text to read:
+SIBOM's ordinance search has 75 entry URLs. This repository includes 72 distinct ordinance texts, including the complete texts of entries numbered 3277/21017 and 3278/2017 on 29 December 2017. The older 2015 annual fiscal ordinance below is not included; it is outside the 2017–2018 ordinance set collected here, even though it appears in a 2017 bulletin. This repository does not claim complete coverage of the whole search.
 
-| Ordinance | Published | Why | Page |
+| Ordinance not included | Official date in text | Bulletin publication | Page |
 | --- | --- | --- | --- |
-| Ordenanza 3277/21017 | 29 December 2017 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179452> |
-| Ordenanza 3278/2017 | 29 December 2017 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179453> |
-| Ordenanza 3294 | 31 July 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231964> |
-| Ordenanza 3295 | 31 July 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231960> |
+| Ordenanza Nº3159 / 2015, Ordenanza Fiscal e Impositiva 2015 | 10 December 2015 | 23 November 2017 | <https://sibom.slyt.gba.gob.ar/bulletins/119/contents/1142514> |
+
+The two entries below are later printings of ordinances already included from their earlier official publication. The texts in this repository are as published in those earlier bulletins; the later printings are not separate ordinances.
+
+| Ordinance | Later publication | Earlier publication included | Later page |
+| --- | --- | --- | --- |
+| Ordenanza 3294 | 31 July 2018 | `ordenanza-3294-2018/` | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231964> |
+| Ordenanza 3295 | 31 July 2018 | `ordenanza-3295-2018/` | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231960> |
 
 ## Single-file acts
 
