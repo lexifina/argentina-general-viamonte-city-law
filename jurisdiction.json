@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-general-viamonte-city-law",
-  "build": "built: municipal ordinances (50 ordinances, 50 versions) from https://sibom.slyt.gba.gob.ar/cities/58",
+  "build": "built: municipal ordinances (70 ordinances, 70 versions) from https://sibom.slyt.gba.gob.ar/cities/58",
   "language": "es",
   "sources": 1
 }

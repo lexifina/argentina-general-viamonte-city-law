@@ -1,6 +1,6 @@
 # General Viamonte: municipal law history in git
 
-The municipal law of the Partido de General Viamonte (Province of Buenos Aires), Argentina, as a git history: one file per article, one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
+The municipal law of the Partido de General Viamonte (Province of Buenos Aires), Argentina, as a git history: one file per article (or one file for an unsplit ordinance), one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ar-b-general-viamonte/`. The province's law is in [lexifina/argentina-buenos-aires-law](https://github.com/lexifina/argentina-buenos-aires-law) and Argentina's national law in [lexifina/argentina-law](https://github.com/lexifina/argentina-law).
 
@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-50 ordinances so far, in force from 7 May 2017 to 16 December 2018, each as published in the Boletín Oficial Municipal de General Viamonte, added in parts.
+70 ordinances so far, in force from 7 May 2017 to 16 December 2018, each as published in the Boletín Oficial Municipal de General Viamonte, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -62,6 +62,26 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3315-2018/` | Ordenanza 3315/2018: RATIFICASE EL ANEXO CONVENIO MARCO DE COOPERACIÓN, SUSCRIPTO EN FECHA 15 DE MARZO DEL CORRIENTE, ENTRE LA UNIVERSIDAD NACIONAL DEL NOROESTE… | in force 9 August 2018 |
 | `ordenanza-3318-2018/` | Ordenanza 3318/2018: APRUÉBENSE LAS ACTUACIONES LABRADAS EN LA LICITACIÓN PÚBLICA N° 05/2018, “PERMISO DE EXPLOTACIÓN DEL KIOSCO UBICADO DENTRO DE LA TERMINAL D… | in force 9 August 2018 |
 | `ordenanza-3339-2018/` | Ordenanza 3339/2018: PROHÍBASE EL INGRESO, DEPÓSITO Y/O TRATAMIENTO EN EL PARTIDO DE GENERAL VIAMONTE DE DESECHOS Y/O RESIDUOS SÓLIDOS URBANOS, DOMICILIARIOS, T… | in force 16 December 2018 |
+| `ordenanza-3244-2017/` | Ordenanza 3244/2017: El Proyecto elaborado por la Secretaría de Obras Públicas denominado “Construcción de 10 cuadras de Cordón Cuneta en Sector Oeste del Barri… | in force 7 May 2017 |
+| `ordenanza-3246-2017/` | Ordenanza 3246/2017: El Proyecto elaborado por la Secretaría de Obras Públicas en referencia a la Obra “Desagües Pluviales en Baigorrita; y | in force 7 May 2017 |
+| `ordenanza-3232-2017/` | Ordenanza 3232/2017: El CONVENIO DE COOPERACIÓN, propuesto entre el Ministerio de Desarrollo Social de la Provincia de Buenos Aires y la Municipalidad de Genera… | in force 19 May 2017 |
+| `ordenanza-3233-2017/` | Ordenanza 3233/2017: Los CONVENIOS DE COOPERACIÓN a suscribirse entre el MINISTERIO DE DESARROLLO SOCIAL representado por el Sr. Ministro SANTIAGO LOPEZ MEDRANO… | in force 19 May 2017 |
+| `ordenanza-3238-2017/` | Ordenanza 3238/2017: Que el citado decreto, además de declarar desierta la licitación del servicio de bar en el Parque Balneario Municipal, ha determinado en su… | in force 19 May 2017 |
+| `ordenanza-3239-2017/` | Ordenanza 3239/2017: El Proyecto de ordenanza “construcción de 20 cuadras de Carpeta asfáltica y cordón cuneta en barrio Los Eucaliptus de la ciudad de Los Told… | in force 22 December 2017 |
+| `ordenanza-3248-2017/` | Ordenanza 3248/2017: El Expediente N* 4053-41/2016, originado por la Municipalidad de General Viamonte; y | in force 7 January 2018 |
+| `ordenanza-3249-2017/` | Ordenanza 3249/2017: Que al llamado a LICITACIÓN PÚBLICA N° 03/2017, para la OBRA: “20 CUADRAS DE CARPETA ASFÁLTICA Y CORDÓN CUNETA EN BARRIO LOS EUCALIPTUS DE … | in force 7 January 2018 |
+| `ordenanza-3250-2017/` | Ordenanza 3250/2017: El Contrato de Comodato N° 22/2017, suscripto oportunamente, entre la Municipalidad de General Viamonte y el Club Atlético Ignacio Coliqueo… | in force 7 January 2018 |
+| `ordenanza-3251-2017/` | Ordenanza 3251/2017: Que, al llamado a LICITACIÓN PRIVADA N° 05/2017, para la OBRA: “CONSTRUCCIÓN DE CORDÓN CUNETA EN SECTOR SUR DEL BARRIO LOS EUCALIPTUS DE LA… | in force 7 January 2018 |
+| `ordenanza-3254-2017/` | Ordenanza 3254/2017: La necesidad de proceder a la readjudicación del Lote, perteneciente al matrimonio conformado por TEILLERI CLAUDIA ELIZABETH, DNI. 25.597.1… | in force 7 January 2018 |
+| `ordenanza-3255-2017/` | Ordenanza 3255/2017: El Expediente N* 4053-69/2016, originado por la Municipalidad de General Viamonte; y | in force 7 January 2018 |
+| `ordenanza-3256-2017/` | Ordenanza 3256/2017: El Convenio Específico de Cooperación y Asistencia Técnica Interinstitucional para la implementación del “Plan Nacional para la Planificaci… | in force 7 January 2018 |
+| `ordenanza-3260-2017/` | Ordenanza 3260/2017: El Expediente N* 4053-33/2014, originado por la Municipalidad de General Viamonte; y | in force 7 January 2018 |
+| `ordenanza-3261-2017/` | Ordenanza 3261/2017: El Expediente N* 4053-45/2017, originado por la Municipalidad de General Viamonte; y | in force 7 January 2018 |
+| `ordenanza-3262-2017/` | Ordenanza 3262/2017: Lo actuado en el Expediente n* 4053-35/2.017, y la necesidad de regularizar la desadjudicación y adjudicación del lote del Plan Familia Pro… | in force 7 January 2018 |
+| `ordenanza-3263-2017/` | Ordenanza 3263/2017: Lo actuado en el Expediente n* 4053-44/2.017, y la necesidad de regularizar la desadjudicación y adjudicación del lote del Plan Familia Pro… | in force 7 January 2018 |
+| `ordenanza-3264-2017/` | Ordenanza 3264/2017: Lo actuado en el Expediente n* 4053/2.017, y la necesidad de regularizar las desadjudicaciones y adjudicaciones de lotes del Plan Familia P… | in force 7 January 2018 |
+| `ordenanza-3266-2017/` | Ordenanza 3266/2017: El Convenio suscripto oportunamente entre el Consejo Nacional de Coordinación de Políticas Sociales de la Presidencia de la Nación y la Mun… | in force 7 January 2018 |
+| `ordenanza-3267-2017/` | Ordenanza 3267/2017: Que al llamado a LICITACIÓN PRIVADA N* 06/2017, para adjudicar la Obra: “SISTEMA DE CLIMATIZACIÓN CENTRAL EN JARDÍN MATERNAL MUNICIPAL SAN … | in force 7 January 2018 |
 
 ## Source
 
@@ -75,7 +95,7 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 
 ## Files
 
-`<ordinance>/art-005.md` is Artículo 5; `encabezado.md` holds the number, the place and date, the expediente line and anything printed before Artículo 1. Signatures and annexes stay in the file of the article they follow. One paragraph per line.
+`<ordinance>/art-005.md` is Artículo 5; `encabezado.md` holds the number, the place and date, the expediente line and anything printed before Artículo 1. Signatures and annexes stay in the file of the article they follow. An ordinance without article headings is held in one file. One paragraph per line.
 
 ## How it is checked
 
@@ -89,31 +109,38 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-24 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de General Viamonte page gives no article text to read:
+4 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de General Viamonte page gives no article text to read:
 
 | Ordinance | Published | Why | Page |
 | --- | --- | --- | --- |
-| Ordenanza 3244/2017 | 28 April 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/81/contents/1132034> |
-| Ordenanza 3246/2017 | 28 April 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/81/contents/1132037> |
-| Ordenanza 3232/2017 | 10 May 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/112/contents/1136244> |
-| Ordenanza 3233/2017 | 10 May 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/112/contents/1136245> |
-| Ordenanza 3238/2017 | 10 May 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/112/contents/1136250> |
-| Ordenanza 3239/2017 | 13 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/519/contents/1175144> |
-| Ordenanza 3248/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179225> |
-| Ordenanza 3249/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179268> |
-| Ordenanza 3250/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179273> |
-| Ordenanza 3251/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179276> |
-| Ordenanza 3254/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179286> |
-| Ordenanza 3255/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179414> |
-| Ordenanza 3256/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179417> |
-| Ordenanza 3260/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179423> |
-| Ordenanza 3261/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179426> |
-| Ordenanza 3262/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179427> |
-| Ordenanza 3263/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179430> |
-| Ordenanza 3264/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179434> |
-| Ordenanza 3266/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179437> |
-| Ordenanza 3267/2017 | 29 December 2017 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179439> |
 | Ordenanza 3277/21017 | 29 December 2017 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179452> |
 | Ordenanza 3278/2017 | 29 December 2017 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/560/contents/1179453> |
 | Ordenanza 3294 | 31 July 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231964> |
 | Ordenanza 3295 | 31 July 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231960> |
+
+## Single-file acts
+
+The following ordinances have complete published HTML text without article headings. Each is held in one file.
+
+| Ordinance | Folder |
+| --- | --- |
+| Ordenanza 3244/2017 | `ordenanza-3244-2017/` |
+| Ordenanza 3246/2017 | `ordenanza-3246-2017/` |
+| Ordenanza 3232/2017 | `ordenanza-3232-2017/` |
+| Ordenanza 3233/2017 | `ordenanza-3233-2017/` |
+| Ordenanza 3238/2017 | `ordenanza-3238-2017/` |
+| Ordenanza 3239/2017 | `ordenanza-3239-2017/` |
+| Ordenanza 3248/2017 | `ordenanza-3248-2017/` |
+| Ordenanza 3249/2017 | `ordenanza-3249-2017/` |
+| Ordenanza 3250/2017 | `ordenanza-3250-2017/` |
+| Ordenanza 3251/2017 | `ordenanza-3251-2017/` |
+| Ordenanza 3254/2017 | `ordenanza-3254-2017/` |
+| Ordenanza 3255/2017 | `ordenanza-3255-2017/` |
+| Ordenanza 3256/2017 | `ordenanza-3256-2017/` |
+| Ordenanza 3260/2017 | `ordenanza-3260-2017/` |
+| Ordenanza 3261/2017 | `ordenanza-3261-2017/` |
+| Ordenanza 3262/2017 | `ordenanza-3262-2017/` |
+| Ordenanza 3263/2017 | `ordenanza-3263-2017/` |
+| Ordenanza 3264/2017 | `ordenanza-3264-2017/` |
+| Ordenanza 3266/2017 | `ordenanza-3266-2017/` |
+| Ordenanza 3267/2017 | `ordenanza-3267-2017/` |

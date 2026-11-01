@@ -64,20 +64,40 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3315-2018` | Ordenanza 3315/2018: RATIFICASE EL ANEXO CONVENIO MARCO DE COOPERACIÓN, SUSCRIPTO EN FECHA 15 DE MARZO DEL CORRIENTE, ENTRE LA UNIVERSIDAD NACIONAL DEL NOROESTE DE LA PROVINCIA DE BUENOS AIRES (UNNOBA), REPRESENTADA POR EL RECTOR, DR. GUILLE | 1 | 2018-08-09 to 2018-08-09 |
 | `ordenanza-3318-2018` | Ordenanza 3318/2018: APRUÉBENSE LAS ACTUACIONES LABRADAS EN LA LICITACIÓN PÚBLICA N° 05/2018, “PERMISO DE EXPLOTACIÓN DEL KIOSCO UBICADO DENTRO DE LA TERMINAL DE OMNIBUS DE LA CIUDAD DE LOS TOLDOS, PARTIDO DE GENERAL VIAMONTE”, POR LOS SUPUE | 1 | 2018-08-09 to 2018-08-09 |
 | `ordenanza-3339-2018` | Ordenanza 3339/2018: PROHÍBASE EL INGRESO, DEPÓSITO Y/O TRATAMIENTO EN EL PARTIDO DE GENERAL VIAMONTE DE DESECHOS Y/O RESIDUOS SÓLIDOS URBANOS, DOMICILIARIOS, TÓXICOS, CONTAMINANTES, PATOLÓGICOS, PATOGÉNICOS, INDUSTRIALES, DE LOS PELIGROSOS  | 1 | 2018-12-16 to 2018-12-16 |
+| `ordenanza-3244-2017` | Ordenanza 3244/2017: El Proyecto elaborado por la Secretaría de Obras Públicas denominado “Construcción de 10 cuadras de Cordón Cuneta en Sector Oeste del Barrio Los Eucaliptus de la ciudad de Los Toldos”, Partido de General Viamonte; y | 1 | 2017-05-07 to 2017-05-07 |
+| `ordenanza-3246-2017` | Ordenanza 3246/2017: El Proyecto elaborado por la Secretaría de Obras Públicas en referencia a la Obra “Desagües Pluviales en Baigorrita; y | 1 | 2017-05-07 to 2017-05-07 |
+| `ordenanza-3232-2017` | Ordenanza 3232/2017: El CONVENIO DE COOPERACIÓN, propuesto entre el Ministerio de Desarrollo Social de la Provincia de Buenos Aires y la Municipalidad de General Viamonte; y | 1 | 2017-05-19 to 2017-05-19 |
+| `ordenanza-3233-2017` | Ordenanza 3233/2017: Los CONVENIOS DE COOPERACIÓN a suscribirse entre el MINISTERIO DE DESARROLLO SOCIAL representado por el Sr. Ministro SANTIAGO LOPEZ MEDRANO, y la MUNICIPALIDAD DE GENERAL VIAMONTE, representada por el Intendente Municipa | 1 | 2017-05-19 to 2017-05-19 |
+| `ordenanza-3238-2017` | Ordenanza 3238/2017: Que el citado decreto, además de declarar desierta la licitación del servicio de bar en el Parque Balneario Municipal, ha determinado en su artículo 2° la explotación en forma directa por parte del Municipio, | 1 | 2017-05-19 to 2017-05-19 |
+| `ordenanza-3239-2017` | Ordenanza 3239/2017: El Proyecto de ordenanza “construcción de 20 cuadras de Carpeta asfáltica y cordón cuneta en barrio Los Eucaliptus de la ciudad de Los Toldos” y “ construcción de 4 cuadras de carpeta asfáltica en la localidad de Baigorr | 1 | 2017-12-22 to 2017-12-22 |
+| `ordenanza-3248-2017` | Ordenanza 3248/2017: El Expediente N* 4053-41/2016, originado por la Municipalidad de General Viamonte; y | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3249-2017` | Ordenanza 3249/2017: Que al llamado a LICITACIÓN PÚBLICA N° 03/2017, para la OBRA: “20 CUADRAS DE CARPETA ASFÁLTICA Y CORDÓN CUNETA EN BARRIO LOS EUCALIPTUS DE LOS TOLDOS Y 4 CUADRAS EN LA LOCALIDAD DE BAIGORRITA”, se presentó, una (1) sola  | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3250-2017` | Ordenanza 3250/2017: El Contrato de Comodato N° 22/2017, suscripto oportunamente, entre la Municipalidad de General Viamonte y el Club Atlético Ignacio Coliqueo; y | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3251-2017` | Ordenanza 3251/2017: Que, al llamado a LICITACIÓN PRIVADA N° 05/2017, para la OBRA: “CONSTRUCCIÓN DE CORDÓN CUNETA EN SECTOR SUR DEL BARRIO LOS EUCALIPTUS DE LA CIUDAD DE LOS TOLDOS, PARTIDO DE GENERAL VIAMONTE”, se presentó, una (1) sola of | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3254-2017` | Ordenanza 3254/2017: La necesidad de proceder a la readjudicación del Lote, perteneciente al matrimonio conformado por TEILLERI CLAUDIA ELIZABETH, DNI. 25.597.126, y PALACIOS RAFAEL OMAR, DNI. 21.880.828, correspondiente al Plan Familia Prop | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3255-2017` | Ordenanza 3255/2017: El Expediente N* 4053-69/2016, originado por la Municipalidad de General Viamonte; y | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3256-2017` | Ordenanza 3256/2017: El Convenio Específico de Cooperación y Asistencia Técnica Interinstitucional para la implementación del “Plan Nacional para la Planificación y Gestión Local de la Seguridad Ciudadana, Asistencia Técnica y Financiera a M | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3260-2017` | Ordenanza 3260/2017: El Expediente N* 4053-33/2014, originado por la Municipalidad de General Viamonte; y | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3261-2017` | Ordenanza 3261/2017: El Expediente N* 4053-45/2017, originado por la Municipalidad de General Viamonte; y | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3262-2017` | Ordenanza 3262/2017: Lo actuado en el Expediente n* 4053-35/2.017, y la necesidad de regularizar la desadjudicación y adjudicación del lote del Plan Familia Propietaria “Barrio Juan Domingo Perón, de esta Ciudad, identificado catastralmente  | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3263-2017` | Ordenanza 3263/2017: Lo actuado en el Expediente n* 4053-44/2.017, y la necesidad de regularizar la desadjudicación y adjudicación del lote del Plan Familia Propietaria “Barrio María Luz Mujica, de esta Ciudad, identificado catastralmente co | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3264-2017` | Ordenanza 3264/2017: Lo actuado en el Expediente n* 4053/2.017, y la necesidad de regularizar las desadjudicaciones y adjudicaciones de lotes del Plan Familia Propietaria “Barrio María Luz Mujica de esta Ciudad, por disolución de matrimonios | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3266-2017` | Ordenanza 3266/2017: El Convenio suscripto oportunamente entre el Consejo Nacional de Coordinación de Políticas Sociales de la Presidencia de la Nación y la Municipalidad de General Viamonte; y | 1 | 2018-01-07 to 2018-01-07 |
+| `ordenanza-3267-2017` | Ordenanza 3267/2017: Que al llamado a LICITACIÓN PRIVADA N* 06/2017, para adjudicar la Obra: “SISTEMA DE CLIMATIZACIÓN CENTRAL EN JARDÍN MATERNAL MUNICIPAL SAN JUAN BOSCO DE LA CIUDAD DE LOS TOLDOS, PARTIDO DE GENERAL VIAMONTE”, se presentó, | 1 | 2018-01-07 to 2018-01-07 |
 
-The build made 50 commits:
+The build made 70 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 50 | first version of an act |
+| 70 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 50 laws in the record.
-- 100 tags.
+- 70 laws in the record.
+- 120 tags.
 
 ## Dates
 
@@ -89,13 +109,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fb7f92aa5bab39d00acd4a708f1f0653ff33dd367a84219d6bf0a2eca161aa61` (438910 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `6d91f95ff925e99a2b46ab78a09c543f874de5fbdc3b4b57b40e349ccf65e0be` (514511 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-50 versions of 50 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
