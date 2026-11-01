@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-general-viamonte",
+  "code": "AR-B-GENERAL-VIAMONTE",
+  "name": "General Viamonte",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-general-viamonte-city-law",
+  "build": "built: municipal ordinances (50 ordinances, 50 versions) from https://sibom.slyt.gba.gob.ar/cities/58",
+  "language": "es",
+  "sources": 1
+}
