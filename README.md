@@ -1,7 +1,5 @@
 # General Viamonte: municipal law history in git
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of General Viamonte, Buenos Aires, Argentina, which global-law reads at `argentina/buenos-aires/general-viamonte/acts/`.
-
 The municipal law of the Partido de General Viamonte (Province of Buenos Aires), Argentina, as a git history: one file per article (or one file for an unsplit ordinance), one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ar-b-general-viamonte/`. The province's law is in [lexifina/argentina-buenos-aires-law](https://github.com/lexifina/argentina-buenos-aires-law) and Argentina's national law in [lexifina/argentina-law](https://github.com/lexifina/argentina-law).
@@ -125,6 +123,8 @@ The two entries below are later printings of ordinances already included from th
 | --- | --- | --- | --- |
 | Ordenanza 3294 | 31 July 2018 | `ordenanza-3294-2018/` | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231964> |
 | Ordenanza 3295 | 31 July 2018 | `ordenanza-3295-2018/` | <https://sibom.slyt.gba.gob.ar/bulletins/1145/contents/1231960> |
+
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of General Viamonte, Buenos Aires, Argentina, which global-law reads at `argentina/buenos-aires/general-viamonte/acts/`.
 
 ## Single-file acts
 
